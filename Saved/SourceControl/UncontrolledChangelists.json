@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/Structs/S_Modifiers.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/Structs/S_ModifierInfo.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BPC_HeroInformation.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/Structs/S_OInfo.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/Structs/S_OriginInfo.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/Enums/E_Species.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/Enums/E_Classes.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Barbarian.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Bard.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Cleric.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Druid.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Fighter.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Monk.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Paladin.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Ranger.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Rogue.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Sorcerer.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Warlock.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Wizard.uasset"
+			]
+		}
+	]
+}
