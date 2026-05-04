@@ -8,7 +8,6 @@
 				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/Structs/S_Modifiers.uasset",
 				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/Structs/S_ModifierInfo.uasset",
 				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BPC_HeroInformation.uasset",
-				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/Structs/S_OInfo.uasset",
 				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/Structs/S_OriginInfo.uasset",
 				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/Enums/E_Species.uasset",
 				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/Enums/E_Classes.uasset",
@@ -25,7 +24,21 @@
 				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Rogue.uasset",
 				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Sorcerer.uasset",
 				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Warlock.uasset",
-				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Wizard.uasset"
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/BP_PawnBase_HeroBase_Wizard.uasset",
+				"C:/Users/jmjno/ClassyParty/Content/Heroes/BP_PawnBase_HeroBase_Ranger.uasset",
+				"C:/Users/jmjno/ClassyParty/Content/UI/W_HeroIcon.uasset",
+				"C:/Users/jmjno/ClassyParty/Content/UI/W_MapView.uasset",
+				"C:/Users/jmjno/ClassyParty/Content/Heroes/BPC_Guildmaster.uasset",
+				"C:/Users/jmjno/ClassyParty/Content/UI/W_QuestSelect.uasset",
+				"C:/Users/jmjno/ClassyParty/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/jmjno/ClassyParty/Content/UI/W_HeroIcon-Dragged.uasset",
+				"C:/Users/jmjno/ClassyParty/Content/UI/BP_DragDrop.uasset",
+				"C:/Users/jmjno/ClassyParty/Content/Heroes/Enums/E_Heroes.uasset",
+				"C:/Users/jmjno/ClassyParty/Content/Quests/S_QuestInfo.uasset",
+				"C:/Users/jmjno/ClassyParty/Content/Quests/BP_QuestBase.uasset",
+				"C:/Users/jmjno/ClassyParty/Content/Quests/BPC_Questponent.uasset",
+				"C:/Users/jmjno/ClassyParty/Content/UI/W_QuestOutcome.uasset",
+				"C:/Users/jmjno/OneDrive/Documents/Unreal Projects/MyProject/Content/Heroes/Structs/S_OInfo.uasset"
 			]
 		}
 	]
