@@ -1,6 +1,28 @@
-[74764:74548:0504/095847.322:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[74764:66028:0504/095847.458:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[74764:74548:0504/095847.482:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[74764:74548:0504/095856.792:ERROR:device_event_log_impl.cc(196)] [09:58:56.746] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[48732:18952:0504/095857.318:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-882140CD243C2FA136D7F5E0101E13C4 will be ignored
-[74764:74548:0504/110956.323:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[90388:37284:0614/130012.641:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[90388:90464:0614/130012.712:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[90388:37284:0614/130012.731:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[90388:37284:0614/130021.911:ERROR:device_event_log_impl.cc(196)] [13:00:21.604] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[81528:81680:0614/130022.927:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-79D18143121C69FDA288EED016824864 will be ignored
+[90388:13324:0614/130024.922:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[90388:37284:0614/130025.576:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[90388:37284:0614/130025.576:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[90388:37284:0614/130025.576:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[90388:37284:0614/130025.576:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[90388:13324:0614/130025.589:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[82648:95824:0614/130033.239:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[82648:95824:0614/130034.071:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[82648:114496:0614/130034.075:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[82648:114496:0614/130034.076:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[82648:114496:0614/130034.076:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[105512:114856:0614/130034.310:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[105512:114856:0614/130034.310:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[105512:114856:0614/130034.310:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[82648:114496:0614/130034.311:WARNING:stun_port.cc(442)] Port[dc9400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[82648:114496:0614/130034.311:WARNING:stun_port.cc(442)] Port[5027800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[82648:114496:0614/130034.311:WARNING:stun_port.cc(442)] Port[5810800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[109968:30332:0614/130238.743:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[90388:37284:0614/134339.946:ERROR:device_event_log_impl.cc(196)] [13:43:39.655] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[90388:37284:0614/141900.964:ERROR:device_event_log_impl.cc(196)] [14:19:00.935] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[90388:37284:0614/144103.514:ERROR:device_event_log_impl.cc(196)] [14:41:03.507] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[90388:37284:0614/151716.209:ERROR:device_event_log_impl.cc(196)] [15:17:16.184] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[90388:37284:0614/154058.837:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
